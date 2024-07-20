@@ -31,5 +31,11 @@
     "eslint-plugin-standard": "^4.0.0",
     "mocha": "^6.0.2",
     "supertest": "^3.4.2"
+  },
+  "bin": {
+    "dss": "bin/dss.js"
+  },
+  "directories": {
+    "test": "test"
   }
 }
